@@ -56,21 +56,6 @@
     </family>
     <family>
         <fileset>
-            <file>Lohit-Devanagari.ttf</file>
-        </fileset>
-    </family>
-    <family>
-        <fileset>
-            <file>Lohit-Bengali.ttf</file>
-        </fileset>
-    </family>
-    <family>
-        <fileset>
-            <file>Lohit-Tamil.ttf</file>
-        </fileset>
-    </family>
-    <family>
-        <fileset>
             <file>DroidSansJapanese.ttf</file>
         </fileset>
     </family>
